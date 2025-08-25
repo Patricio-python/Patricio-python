@@ -1,7 +1,6 @@
-- Eu sou @Patricio-python
-- Estou interessado em programação Python
-- Atualmente estudando CSS para aprender mais sobre Web Designer e futuramente aprender mais sobre Django
-- Costumo aprender fazendo, por isso, quando encontro uma ferramenta nova tento criar algo com ela
+- Eu sou @Patricio-python.
+- Estou interessado em programação Python.
+- Costumo aprender fazendo, por isso, quando encontro uma ferramenta nova tento criar algo com ela.
  
 
 <!---
