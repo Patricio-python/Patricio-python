@@ -32,10 +32,10 @@ Tecnologias: Python, lógica de gerenciamento de dados.
 Gerador de QR Codes, ideal para aprendizado e automações simples.
 Tecnologias: Python, bibliotecas de QrCode.
 
-🗺️ Sites:
+🗺️ Sites: <br>
 ♻️ https://patricio-python.github.io/maricauarecicla/ <br>
 💻 https://patricio-python.github.io/pcsolidario/ <br>
-👠 https://patricio-python.github.io/rachel_trajesfinos/ 
+👠 https://patricio-python.github.io/rachel_trajesfinos/ <br>
 Tecnologias: HTML5, CSS, SEO
 
 📚 O que estou estudando agora
