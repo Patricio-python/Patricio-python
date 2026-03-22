@@ -1,13 +1,13 @@
 👋 Olá, eu sou o Patricio!  
 
 Sou um desenvolvedor focado em Python, sempre buscando aprender novas ferramentas por meio da prática. Meu estilo de aprendizado é orientado a projetos: sempre que descubro uma nova tecnologia, crio algo com ela para explorar suas possibilidades. 
-Atualmente, estou expandindo meus conhecimentos em HTML/CSS para melhorar minhas habilidades em Web Design e me preparar para aprender Django futuramente. 
+Atualmente, estou expandindo meus conhecimentos em HTML/CSS para melhorar minhas habilidades em Web Design e me preparar para aprender Django futuramente. Também tenho interesse em produzir API's.
 
-🚀 Tecnologias & Ferramentas
+🚀 Tecnologias & Ferramentas <br>
 Linguagens:
 
-🐍 Python
-🎨 HTML/CSS (em aprendizado)
+🐍 Python <br>
+🎨 HTML/CSS (em aprendizado) <br>
 
 🎓 Certificações & Cursos:
 
@@ -16,10 +16,10 @@ Linguagens:
 
 💡 Interesses Atuais:
 
-Desenvolver Softwares Desktop (Mobile no futuro)
-Automação e scripts práticos
-Design para Web
-Desenvolvimento de aplicações Web com Django
+Desenvolver Softwares Desktop (Mobile no futuro) <br>
+Automação e scripts práticos <br>
+Design para Web <br>
+Desenvolvimento de aplicações Web com Django <br>
 
 
 🛠 Projetos em Destaque
@@ -32,21 +32,21 @@ Tecnologias: Python, lógica de gerenciamento de dados.
 Gerador de QR Codes, ideal para aprendizado e automações simples.
 Tecnologias: Python, bibliotecas de QrCode.
 
-🗺️ Sites: <br>
+🗺️ Sites: <br> <br>
 ♻️ https://patricio-python.github.io/maricauarecicla/ <br>
 💻 https://patricio-python.github.io/pcsolidario/ <br>
-👠 https://patricio-python.github.io/rachel_trajesfinos/ <br>
+👠 https://patricio-python.github.io/rachel_trajesfinos/ <br> <br>
 Tecnologias: HTML5, CSS, SEO
 
-📚 O que estou estudando agora
+📚 O que estou estudando agora:
 
-Programação Orientada a Objetos em Python
-HTML/CSS para estruturar e estilizar interfaces Web
-Conceitos para futuramente usar Django no desenvolvimento de aplicações Web
+Programação Orientada a Objetos em Python <br>
+HTML/CSS para estruturar e estilizar interfaces Web <br>
+Conceitos para futuramente usar Django no desenvolvimento de aplicações Web <br>
 
 
-📫 Como me encontrar
-Linkedin: https://www.linkedin.com/in/luiz-patricio-farias-da-silva/
+📫 Como me encontrar: <br>
+Linkedin: https://www.linkedin.com/in/luiz-patricio-farias-da-silva/ <br>
 GitHub: https://github.com/Patricio-python
 <!---
 Patricio-python/Patricio-python is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
