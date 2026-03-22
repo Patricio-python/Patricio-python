@@ -1,3 +1,5 @@
+👋 Olá, eu sou o Patricio!  
+
 Sou um desenvolvedor focado em Python, sempre buscando aprender novas ferramentas por meio da prática. Meu estilo de aprendizado é orientado a projetos: sempre que descubro uma nova tecnologia, crio algo com ela para explorar suas possibilidades. 
 Atualmente, estou expandindo meus conhecimentos em HTML/CSS para melhorar minhas habilidades em Web Design e me preparar para aprender Django futuramente. 
 
@@ -31,9 +33,9 @@ Gerador de QR Codes, ideal para aprendizado e automações simples.
 Tecnologias: Python, bibliotecas de QrCode.
 
 🗺️ Sites:
-♻️ https://patricio-python.github.io/maricauarecicla/
-💻 https://patricio-python.github.io/pcsolidario/
-👠 https://patricio-python.github.io/rachel_trajesfinos/
+♻️ https://patricio-python.github.io/maricauarecicla/ <br>
+💻 https://patricio-python.github.io/pcsolidario/ <br>
+👠 https://patricio-python.github.io/rachel_trajesfinos/ 
 Tecnologias: HTML5, CSS, SEO
 
 📚 O que estou estudando agora
