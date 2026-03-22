@@ -9,15 +9,7 @@ Linguagens:
 
 🎓 Certificações & Cursos:
 
-[![Python Essentials 1](https://images.credly.com/size/110x110/images/68c0b94d-f6ac-40b1-a0e0-921439eb092e/image.png)](https://www.credly.com/badges/90f4be51-50bd-4d92-ac81-67a3f15a84da/public_url)
-
-[![HTML Essentials](https://images.credly.com/size/110x110/images/b1c17d0c-e76b-45fc-9b28-87b01ae1caf3/blob)](https://www.credly.com/badges/394b42b3-bf61-42e4-a6bb-1ab3d4a32ea9/public_url)
-
-[![CSS Essentials](https://images.credly.com/size/110x110/images/bd2bba36-66ad-4de2-9d91-e29433e51a16/blob)](https://www.credly.com/badges/9a4ccdf2-614c-42d7-a63f-75df03513026/public_url)
-
-[![CCNA: Introduction to Networks](https://images.credly.com/size/110x110/images/70d71df5-f3dc-4380-9b9d-f22513a70417/CCNAITN__1_.png)](https://www.credly.com/badges/30b4e723-2648-4264-9a33-ba0df3a90676/public_url)
-
-[![CyberOps Associate](https://images.credly.com/size/110x110/images/53f37f83-04a1-4935-9b1e-21a99cc6e1b2/CyberOpsAssoc.png)](https://www.credly.com/badges/5af6e85b-2373-4c81-a6d7-937a51aed077/public_url)
+[![Python Essentials 1](https://images.credly.com/size/110x110/images/68c0b94d-f6ac-40b1-a0e0-921439eb092e/image.png)](https://www.credly.com/badges/90f4be51-50bd-4d92-ac81-67a3f15a84da/public_url) [![HTML Essentials](https://images.credly.com/size/110x110/images/b1c17d0c-e76b-45fc-9b28-87b01ae1caf3/blob)](https://www.credly.com/badges/394b42b3-bf61-42e4-a6bb-1ab3d4a32ea9/public_url) [![CSS Essentials](https://images.credly.com/size/110x110/images/bd2bba36-66ad-4de2-9d91-e29433e51a16/blob)](https://www.credly.com/badges/9a4ccdf2-614c-42d7-a63f-75df03513026/public_url) [![CCNA: Introduction to Networks](https://images.credly.com/size/110x110/images/70d71df5-f3dc-4380-9b9d-f22513a70417/CCNAITN__1_.png)](https://www.credly.com/badges/30b4e723-2648-4264-9a33-ba0df3a90676/public_url) [![CyberOps Associate](https://images.credly.com/size/110x110/images/53f37f83-04a1-4935-9b1e-21a99cc6e1b2/CyberOpsAssoc.png)](https://www.credly.com/badges/5af6e85b-2373-4c81-a6d7-937a51aed077/public_url)
 
 
 💡 Interesses Atuais:
