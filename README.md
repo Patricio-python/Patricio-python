@@ -1,4 +1,4 @@
-👋 Olá, eu sou o Patricio!  
+<h1>👋 Olá, eu sou o Patricio!</h1>
 
 Sou um desenvolvedor focado em Python, sempre buscando aprender novas ferramentas por meio da prática. Meu estilo de aprendizado é orientado a projetos: sempre que descubro uma nova tecnologia, crio algo com ela para explorar suas possibilidades. 
 Atualmente, estou expandindo meus conhecimentos em HTML/CSS para melhorar minhas habilidades em Web Design e me preparar para aprender Django futuramente. Também tenho interesse em produzir API's.
