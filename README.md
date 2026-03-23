@@ -25,17 +25,17 @@ Desenvolvimento de aplicações Web com Django <br>
 🛠 Projetos em Destaque
 
 📚 GestãoLivraria
-Projeto criado para auxiliar uma livraria na gestão de estoque, pedidos, devoluções e cadastro de clientes.
+Projeto criado para auxiliar uma livraria na gestão de estoque, pedidos, devoluções e cadastro de clientes. <br>
 Tecnologias: Python, lógica de gerenciamento de dados.
 
 🔳 QrCode
-Gerador de QR Codes, ideal para aprendizado e automações simples.
-Tecnologias: Python, bibliotecas de QrCode.
+Gerador de QR Codes, ideal para aprendizado e automações simples. <br>
+Tecnologias: Python, bibliotecas de QrCode. 
 
-🗺️ Sites: <br> <br>
+🗺️ Sites: <br>
 ♻️ https://patricio-python.github.io/maricauarecicla/ <br>
 💻 https://patricio-python.github.io/pcsolidario/ <br>
-👠 https://patricio-python.github.io/rachel_trajesfinos/ <br> <br>
+👠 https://patricio-python.github.io/rachel_trajesfinos/ <br>
 Tecnologias: HTML5, CSS, SEO
 
 📚 O que estou estudando agora:
