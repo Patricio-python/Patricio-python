@@ -1,7 +1,7 @@
 <h1>👋 Olá, eu sou o Patricio!</h1>
 
 Sou um desenvolvedor focado em Python, sempre buscando aprender novas ferramentas por meio da prática. Meu estilo de aprendizado é orientado a projetos: sempre que descubro uma nova tecnologia, crio algo com ela para explorar suas possibilidades. 
-Atualmente, estou expandindo meus conhecimentos em HTML/CSS para melhorar minhas habilidades em Web Design e me preparar para aprender Django futuramente. Também tenho interesse em produzir API's.
+Atualmente, estou expandindo meus conhecimentos em HTML/CSS para melhorar minhas habilidades em Web Design e me preparar para aprender Django futuramente.
 
 <h2>🚀 Tecnologias & Ferramentas</h2> <br>
 <h3>💻 Linguagens:</h3>
@@ -17,33 +17,36 @@ Atualmente, estou expandindo meus conhecimentos em HTML/CSS para melhorar minhas
 
 <h2>💡 Interesses Atuais:</h2>
 
-Desenvolver Softwares Desktop (Mobile no futuro) <br>
+Desenvolver Softwares Desktop <br>
 Automação e scripts práticos <br>
-Design para Web <br>
-Desenvolvimento de aplicações Web com Django <br>
-
+Desenvolvimento Web <br>
 
 <h2>🛠 Projetos em Destaque</h2>
 
-<h3>📚 GestãoLivraria</h3>
-Projeto criado para auxiliar uma livraria na gestão de estoque, pedidos, devoluções e cadastro de clientes. <br>
+📚 GestãoLivraria
+Projeto criado para auxiliar uma livraria na gestão de estoque, pedidos, devoluções e cadastro de clientes.
+https://github.com/Patricio-python/GestorLivraria
 Tecnologias: Python, lógica de gerenciamento de dados.
 
-<h3>🔳 QrCode</h3>
-Gerador de QR Codes, ideal para aprendizado e automações simples. <br>
-Tecnologias: Python, bibliotecas de QrCode. 
+🔳 QrCode
+Gerador de QR Codes, ideal para aprendizado e automações simples.
+https://github.com/Patricio-python/QrCode
+Tecnologias: Python, bibliotecas de QrCode.
 
-<h3>🗺️ Sites:</h3>   
-♻️ https://patricio-python.github.io/maricauarecicla/ <br>
-💻 https://patricio-python.github.io/pcsolidario/ <br>
-👠 https://patricio-python.github.io/rachel_trajesfinos/ <br>
+🗺️ Sites:
+♻️Maricaua Recicla Eletrônicos
+Descrição do site aqui
+🌐 https://patricio-python.github.io/maricauarecicla/
+
+💻 PC Solidário
+Descrição do site aqui
+🌐 https://patricio-python.github.io/pcsolidario/
+
+👠 Raquel Trajes Finos
+Descrição do site aqui
+🌐 https://patricio-python.github.io/rachel_trajesfinos/
+
 Tecnologias: HTML5, CSS, SEO
-
-<h2>📚 O que estou estudando agora:</h2>
-
-Programação Orientada a Objetos em Python <br>
-HTML/CSS para estruturar e estilizar interfaces Web <br>
-Conceitos para futuramente usar Django no desenvolvimento de aplicações Web <br>
 
 
 <h2>📫 Como me encontrar: <br></h2>
