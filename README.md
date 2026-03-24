@@ -33,18 +33,18 @@ Gerador de QR Codes, ideal para aprendizado e automações simples.
 https://github.com/Patricio-python/QrCode
 Tecnologias: Python, bibliotecas de QrCode.
 
-🗺️ Sites:
-♻️Maricaua Recicla Eletrônicos
-Descrição do site aqui
-🌐 https://patricio-python.github.io/maricauarecicla/
+🗺️ Sites:<br>
+♻️Maricaua Recicla Eletrônicos<br>
+Descrição do site aqui<br>
+🌐 https://patricio-python.github.io/maricauarecicla/ <br> <br>
 
-💻 PC Solidário
-Descrição do site aqui
-🌐 https://patricio-python.github.io/pcsolidario/
+💻 PC Solidário <br>
+Descrição do site aqui <br>
+🌐 https://patricio-python.github.io/pcsolidario/ <br><br>
 
-👠 Raquel Trajes Finos
-Descrição do site aqui
-🌐 https://patricio-python.github.io/rachel_trajesfinos/
+👠 Raquel Trajes Finos <br>
+Descrição do site aqui <br>
+🌐 https://patricio-python.github.io/rachel_trajesfinos/ <br><br>
 
 Tecnologias: HTML5, CSS, SEO
 
