@@ -7,7 +7,7 @@ Atualmente, estou expandindo meus conhecimentos em HTML/CSS para melhorar minhas
 <h3>💻 Linguagens:</h3>
 
 🐍 Python <br>
-🎨 HTML/CSS (em aprendizado) <br>
+🎨 HTML/CSS <br>
 🔐 Banco de dados: MySQL <br>
 
 <h3>🎓 Certificações & Cursos:</h3>
