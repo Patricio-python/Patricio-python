@@ -24,14 +24,14 @@ Desenvolvimento Web <br>
 <h2>🛠 Projetos em Destaque</h2>
 
 📚 GestãoLivraria
-Projeto criado para auxiliar uma livraria na gestão de estoque, pedidos, devoluções e cadastro de clientes.
+Projeto criado para auxiliar uma livraria na gestão de estoque, pedidos, devoluções e cadastro de clientes.<br>
+Tecnologias: Python, lógica de gerenciamento de dados.<br>
 https://github.com/Patricio-python/GestorLivraria
-Tecnologias: Python, lógica de gerenciamento de dados.
 
 🔳 QrCode
-Gerador de QR Codes, ideal para aprendizado e automações simples.
+Gerador de QR Codes, ideal para aprendizado e automações simples.<br>
+Tecnologias: Python, bibliotecas de QrCode.<br>
 https://github.com/Patricio-python/QrCode
-Tecnologias: Python, bibliotecas de QrCode.
 
 🗺️ Sites:<br>
 ♻️Maricaua Recicla Eletrônicos<br>
